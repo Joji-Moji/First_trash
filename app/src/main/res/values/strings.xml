@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">MyFirstTrashProj</string>
+    <string name="app_name">Теорема Пифагора</string>
+    <string name="title">Вычислить \"C\"</string>
+    <string name="text_info">Результат: &#160;</string>
+    <string name="text_A">Введите значение \"А\"</string>
+    <string name="text_B">Введите значение \"B\"</string>
+    <string name="result">Результат</string>
+    <string name="nullEmpty">Поле должно быть заполнено</string>
 </resources>
